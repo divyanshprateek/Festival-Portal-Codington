@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_181"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/aspectjrt-1.0.5.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/aspectjrt-1.5.0.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/com.springsource.org.apache.commons.collections-3.2.0.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/hibernate-commons-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-aop.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-context.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-jms.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-modules-validation-0.8.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-orm.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-test.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-tx.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-tx-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-web.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-webmvc-portlet.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/spring-webmvc-struts.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="A:/code/java/Ecllipse/Course/WebContent/WEB-INF/lib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="A:/code/java/Ecllipse/Course/WebContent/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divyansh/Downloads/catalina-6.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divyansh/Downloads/lib/aspectjrt-1.5.0.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib4 - Copy/spring-context-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="A:/code/archive/lib4 - Copy/spring-web-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divyansh/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
